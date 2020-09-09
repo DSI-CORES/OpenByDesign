@@ -307,7 +307,7 @@ You may find your fork becomes out of sync with this repository. This can be fro
 
 To begin, please navigate to your fork of the repository. You will find a box informing you that your fork is a number of commits behind master. Please click on the `compare` button. This will bring you to the compare changes page. This enables us to stage our pull request.
 
-![compare-picture](sync-fork/compare_picture.png "compare-picture")
+![compare-picture](sync-fork/compare-picture.png "compare-picture")
 
 Upon navigating to this screen, you will likely see something very similar to the picture below. To remedy this, please ensure you are pulling commits from the master branch into your fork. This can be done by switching the base.
 
