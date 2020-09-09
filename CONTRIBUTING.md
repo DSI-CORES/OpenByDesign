@@ -30,6 +30,7 @@ Been here before? Already know what you're looking for in this guide? Jump to th
   - [2. Fork Open By Design repository to your profile](#2-forkgithub-fork-the-open-by-design-repositoryopen-by-design-repo-to-your-profile)
   - [3. Make the changes you've discussed](#3-make-the-changes-youve-discussed)
   - [4. Submit a pull request](#4-submit-a-pull-requestgithub-pullrequest)
+- [Syncing your fork](#syncing-your-fork)
 - [The process of writing chapters](#the-process-of-writing-chapters)
 - [Style Guide](#style-guide)
   - [Writing style](#writing-style)
@@ -299,11 +300,11 @@ You can learn more about Github Actions in the [Continuous Integration chapter](
 
 GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
 
-### Syncing your fork
+## Syncing your fork
 
 You may find your fork becomes out of sync with this repository. This can be from other contributors submitting their changes. It is *strongly recommended* to sync your fork prior to committing your changes. We have described two ways to do this.
 
-#### GitHub web interface
+### GitHub web interface
 
 To begin, please navigate to your fork of the repository. You will find a box informing you that your fork is a number of commits behind master. Please click on the `compare` button. This will bring you to the compare changes page. This enables us to stage our pull request.
 
@@ -319,7 +320,7 @@ Once your fork is selected as the base, you will see the commits your pull reque
 
 This will navigate you to finish filling out your pull request. Please enter a title and `Create the pull request`. Once it has been created please `merge` it. As the pull request is merged, your repository will be brough back in sync with the master branch - you are ready to begin adding in your contributions!
 
-#### Command line
+### Command line
 
 To begin, please make sure you have a copy of your fork on your local disk. This can be done by following [this guide](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#keep-your-fork-synced). The result of this guide is: you have your fork downloaded locally with the remotes set up. 
 
