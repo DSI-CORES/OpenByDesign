@@ -1,6 +1,6 @@
-# Practical guide to getting started
+# Practical guide for potential contributors
 
-The purpose of this guide is to briefly introduce and orient you to navigate our GitHub organization and submit your contribution. Our intention is to keep this short, sweet, and to the point. We have provided links to more verbose descriptions. Please open an issue if there are other fundamental terms that would be beneficial to add here.
+The purpose of this guide is to briefly introduce and orient potential contributors to navigate our GitHub organization and submit your contribution. Our intention is to keep this short, sweet, and to the point. We have provided links to more verbose descriptions. Please open an issue if there are other fundamental terms that would be beneficial to add here.
 
 ## GitHub navigation
 
@@ -9,7 +9,6 @@ The purpose of this guide is to briefly introduce and orient you to navigate our
 A [GitHub repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) is typically where the development occurs. Common repository tasks are opening issues or pull requests. While, a [GitHub organization](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations) consists of one or more repositores. 
 
 In our case, this repository is named: `OpenByDesign` under the `DSI-CORES` organization.
-
 
 Organizations are useful for managing a collection of related repositories. One advantage of keeping repositories together is the ability to manage them all from one place. A common management task is giving additional permissions to specific users or teams.
 
