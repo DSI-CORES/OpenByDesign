@@ -50,15 +50,15 @@ Specifying a license for your code allows you to stipulate how others can re-use
 
 -   Create a new repository from your GitHub page (using the menu at the top right with the + sign)
 
-<p align="center"><img width=30% src="images/new_repo.png"></p>
+<p align="center"><img width=30% src="/images/new_repo.png"></p>
 
 -   Complete the form to create the new repo, including selecting your license and creating a README file
 
-<p align="center"><img width=60% src="images/create_new_repo.png"></p>
+<p align="center"><img width=60% src="/images/create_new_repo.png"></p>
 
 -   Once you create the repository, you will be taken to the main page for the repository.  Obtain the link to your repository under the Code tab, and copy it.
 
-<p align="center"><img width=60% src="images/clone_repo.png"></p>
+<p align="center"><img width=60% src="/images/clone_repo.png"></p>
 
 -   On your local computer, clone the GitHub repository using:  ``git clone \<link copied from github page\>``
 -   This will create a new directory on your computer with the same name as your GitHub project.
@@ -74,7 +74,7 @@ Some researchers include data within their code directory; see the section on Da
 
 For example, if you were creating a new project called study-1 and decided to include the data in the same directory as the code, you might structure the directory as follows, following to the [Psych-DS](https://www.google.com/url?q=https://docs.google.com/document/d/1u8o5jnWk0Iqp_J06PTu5NjBfVsdoPbBhstht6W0fFp0/edit%23heading%3Dh.1f1h1ilgqcg&sa=D&ust=1596213792955000&usg=AOvVaw3JK-wAbCxGN_foxsPOKgqf) and [Project Tier](https://www.google.com/url?q=https://www.projecttier.org/tier-protocol/specifications/%23overview-of-the-documentation&sa=D&ust=1596213792955000&usg=AOvVaw2iNQ9eY88GzwLnu989lNKx) frameworks:
 
-<p align="center"><img width=60% src="images/tree.png"></p>
+<p align="center"><img width=60% src="/images/tree.png"></p>
 
 
 ### Step 5: Commit your code to the local repository
