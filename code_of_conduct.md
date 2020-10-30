@@ -131,7 +131,7 @@ The Code of Conduct committee is:
 
 * Russell Poldrack: russpold@stanford.edu
 * Maya Mathur: mmathur@stanford.edu
-* Franklin Feingold: ffeingold@stanford.edu
+* Franklin Feingold: ffein@stanford.edu
 * Chris Mentzel: cmentzel@stanford.edu
 
 As the community grows, we will seek to build a larger committee; if you are interested in playing a role on the committee, please contact the organizers.
