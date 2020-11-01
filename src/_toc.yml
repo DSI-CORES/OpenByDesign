@@ -1,0 +1,19 @@
+- file: README
+
+- part: Introduction
+  chapters:
+  - file: 00-introduction/01-introduction.md
+  - file: 00-introduction/02-learn-more-about-the-os-community.md
+
+- part: Skills for Open Science
+  chapters:
+  - file: 02-open-science-infrastructure/02-programming/02-unix.md
+  - file: 02-open-science-infrastructure/01-computer-literacy/01-computer-literacy.md
+
+- part: Open Science Research Practices
+  chapters:
+  - file: 01-research-practices-(practical)/06-sharing-research-objects-beyond-the-text/01-code-sharing.md
+  - file: 01-research-practices-(practical)/06-sharing-research-objects-beyond-the-text/02-data-sharing.md
+  - file: 01-research-practices-(practical)/01-preregistration.md
+  - file: 01-research-practices-(practical)/04-reproducible-manuscripts.md
+  - file: 01-research-practices-(practical)/02-reproducible-data-analysis.md
