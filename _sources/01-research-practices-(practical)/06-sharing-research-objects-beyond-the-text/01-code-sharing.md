@@ -119,6 +119,12 @@ In order to make your code citable, it is useful to have a digital object identi
 
 ## Examples
 
+#### [Stanford Open Policing Project](https://openpolicing.stanford.edu/)
+
+The Stanford Open Policing Project collects, standardizes, and publicly shares data on vehicle and pedestrian stops from law enforcement departments across the country. They have gathered over 200 million records from dozens of state and local police departments across the country. 
+
+Access to their code can be found on their [GitHub repository](https://github.com/stanford-policylab/opp).
+
 ## Frequently Asked Questions
 
 ### What is a “repository”?

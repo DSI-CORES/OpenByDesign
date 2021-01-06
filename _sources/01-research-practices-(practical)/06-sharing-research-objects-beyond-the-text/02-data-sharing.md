@@ -134,6 +134,12 @@ See [here](https://www.google.com/url?q=https://www.openaire.eu/how-to-make-your
 
 ## Examples
 
+#### [Stanford Open Policing Project](https://openpolicing.stanford.edu/)
+
+The Stanford Open Policing Project collects, standardizes, and publicly shares data on vehicle and pedestrian stops from law enforcement departments across the country. They have gathered over 200 million records from dozens of state and local police departments across the country. 
+
+Access to their data can be found on their [website](https://openpolicing.stanford.edu/data/).
+
 ## Frequently Asked Questions
 
 ### How should my files be named?
