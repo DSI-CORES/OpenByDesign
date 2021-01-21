@@ -27,9 +27,12 @@ Been here before? Already know what you're looking for in this guide? Jump to th
   - [Issue labels](#issue-labels)
 - [Making a change with a pull request](#making-a-change-with-a-pull-request)
   - [1. Comment on an existing issue or open a new issue referencing your addition](#1-comment-on-an-existing-issue-or-open-a-new-issue-referencing-your-addition)
-  - [2. Fork Open By Design repository to your profile](#2-forkgithub-fork-the-open-by-design-repositoryopen-by-design-repo-to-your-profile)
+  - [2. Fork Open By Design repository to your profile](#2-fork-the-open-by-design-repository-to-your-profile)
   - [3. Make the changes you've discussed](#3-make-the-changes-youve-discussed)
-  - [4. Submit a pull request](#4-submit-a-pull-requestgithub-pullrequest)
+  - [4. Submit a pull request](#4-submit-a-pull-request)
+- [Syncing your fork](#syncing-your-fork)
+  - [GitHub web interface](#github-web-interface)
+  - [Command line](#command-line)
 - [The process of writing chapters](#the-process-of-writing-chapters)
 - [Style Guide](#style-guide)
   - [Writing style](#writing-style)
@@ -39,8 +42,8 @@ Been here before? Already know what you're looking for in this guide? Jump to th
   - [Referencing and Citing](#referencing-and-citing)
     - [Adding a new reference](#adding-a-new-reference)
     - [Citation key style guide](#citation-key-style-guide)
-  - [Adding links between pages within the book](#adding-links-between-pages-within-the-book)
-- [Representing Open By Design](#representing-the-turing-way)
+  - [Adding links between pages within the book](#cross-referencing-chapters)
+- [Representing Open By Design](#representing-open-by-design)
 - [Recognising Contributions](#recognising-contributions)
 
 ## Joining the community
@@ -299,6 +302,48 @@ You can learn more about Github Actions in the [Continuous Integration chapter](
 
 GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
 
+## Syncing your fork
+
+You may find your fork becomes out of sync with this repository. This can be from other contributors submitting their changes. It is *strongly recommended* to sync your fork prior to committing your changes. We have described two ways to do this.
+
+### GitHub web interface
+
+To begin, please navigate to your fork of the repository. You will find a box informing you that your fork is a number of commits behind master. Please click on the `compare` button. This will bring you to the compare changes page. This enables us to stage our pull request.
+
+![compare-picture](sync-fork/compare-picture.png "compare-picture")
+
+Upon navigating to this screen, you will likely see something very similar to the picture below. To remedy this, please ensure you are pulling commits from the master branch into your fork. This can be done by switching the base.
+
+![initial-compare](sync-fork/initial-compare.png "initial-compare")
+
+Once your fork is selected as the base, you will see the commits your pull request seeks to merge into your fork. Please click on the `Create pull request` button.
+
+![compare-pr](sync-fork/compare-pr.png "compare-pr")
+
+This will navigate you to finish filling out your pull request. Please enter a title and `Create the pull request`. Once it has been created please `merge` it. As the pull request is merged, your repository will be brough back in sync with the master branch - you are ready to begin adding in your contributions!
+
+### Command line
+
+To begin, please make sure you have a copy of your fork on your local disk. This can be done by following [this guide](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#keep-your-fork-synced). The result of this guide is: you have your fork downloaded locally with the remotes set up. 
+
+The following commands presume you are in your fork's directory with upstream configured as `git@github.com:DSI-CORES/OpenByDesign.git`
+
+To pull in the changes from master please enter:
+
+```
+git pull upstream master
+```
+
+Now your local copy is synced with the master branch. To push these changes to your fork's master branch please enter: 
+
+```
+git push origin master
+```
+
+To check if this syncronization worked, please navigate to your fork on the web interface. Please look directly above the directory rendering for the banner conveying `This branch is even with OpenByDesign:master`.
+
+If you have any questions about this process please feel free to reach out to Franklin (email: ffein@stanford.edu, GitHub: franklin-feingold)
+
 ## The process of writing chapters
 
 - Fork the repository from the DSI-CORES version if you have not done so already.
@@ -532,7 +577,7 @@ You can insert cross-references to labels in your file with the following syntax
 
 We would LOVE people to give talks about the project or represent Open By Design in other ways! 
 
-If you would like to do that please open an issue and ping @malvikasharan and @KirstieJane so
+If you would like to do that please open an issue and ping @franklin-feingold so
 that they can do their best to support you.
 
 We would appreciate if you could share your slides by adding them to the
