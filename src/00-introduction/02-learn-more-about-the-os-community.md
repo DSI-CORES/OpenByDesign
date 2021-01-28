@@ -51,15 +51,18 @@
 
 ### People/Twitter Handles
 
--   Andrew Gelman: @StatModeling
 -   Brian Nosek: @BrianNosek
+-   Dorothy Bishop: @deevybee
+-   Dario Taraborelli: @ReaderMeter
+-   Lisa de Bruine: @LisaDeBruine
+-   Julia Stewart Loundes: @juliesquid
+-   Susan Holmes: @SherlockpHolmes
 -   Charlie Ebersole: @CharlieEbersole
 -   Chris Gorgolewski: @chrisgorgo
 -   Daniël Lakens: @lakens
 -   Eiko Fried: @EikoFried
 -   EJ Wagenmakers: @EJWagenmakers
 -   Joe Simmons: @jpsimmon
--   John Ioannidis: (no twitter)
 -   Marcus Munafò: @MarcusMunafo
 -   Michael C. Frank: @mcxfrank
 -   Neil Lewis, Jr.: @NeilLewisJr
@@ -70,6 +73,7 @@
 -   Steven Goodman: @goodmanmetrics
 -   Tal Yarkoni: @talyarkoni
 -   Uri Simonsohn: @uri_sohn
+-   Andrew Gelman: @StatModeling
 
 ### Podcasts
 
