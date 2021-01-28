@@ -117,13 +117,21 @@ When you are ready to save a fixed version of the code (for example, when you su
 
 In order to make your code citable, it is useful to have a digital object identifier (DOI) for your code. You can create these easily by linking your GitHub repository to Zenodo.org. Then, any time a release is created on GitHub, it will be deposited to Zenodo and a new DOI will be created. See [the GitHub guide to citeable code](https://guides.github.com/activities/citable-code/) for instructions on how to set this up.  This has the benefit of allowing one to cite a specific version of the code used at a particular point in the project (e.g. upon submission of the manuscript), which enhances reproducibility.
 
+## Examples
+
+#### [Stanford Open Policing Project](https://openpolicing.stanford.edu/)
+
+The Stanford Open Policing Project collects, standardizes, and publicly shares data on vehicle and pedestrian stops from law enforcement departments across the country. They have gathered over 200 million records from dozens of state and local police departments across the country. 
+
+Access to their code can be found on their [GitHub repository](https://github.com/stanford-policylab/opp).
+
 ## Frequently Asked Questions
 
 ### What is a “repository”?
 
-By “repository” we mean a folder that is dedicated to a specific project, containing both the data and code for that project, which is under version control (e.g. using git).
+By “repository” we mean a folder that is dedicated to a specific project, containing both the data and code for that project, which is under version control (e.g. using git).  
 
-- It’s generally best practice to place all of these within a folder on your filesystem, so that they can be separated out from other kinds of documents and you can easily find them (such as “Dropbox/code”).
+- It’s generally best practice to place all of these within a folder on your filesystem, so that they can be separated out from other kinds of documents and you can easily find them (such as “Dropbox/code”).  
 - It’s also a good idea to place them within a location that will be backed up by whatever cloud service you use (Dropbox, Google Drive, Box, etc), so you have an extra backup in addition to your remote code repository
 
 

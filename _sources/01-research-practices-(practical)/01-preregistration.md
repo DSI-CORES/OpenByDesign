@@ -37,19 +37,19 @@ It's best to use the repository that is most common in one's particular field of
 
 - [AEA Registry](http://www.socialscienceregistry.org) - Primarily used within economics
 - [AsPredicted.org](https://aspredicted.org/) - Primarily used within psychology, provides a simple form to ease registration
-- [ClinicalTrials.gov](https://clinicaltrials.gov/ct2/home) (Medicine / Public Health mainly)
-- [EGAP](https://egap.org/registry/) (Political Science mainly)
+- [ClinicalTrials.gov](https://clinicaltrials.gov/ct2/home) (Medicine / Public Health mainly)  
+- [EGAP](https://egap.org/registry/) (Political Science mainly) 
 - [Open Science Framework](https://osf.io/) - the most broadly applicable across social sciences
 
 If you do not see a commonly used repository for your field listed, please feel free to submit a pull request to include it here!
 
-In addition, the journal, [Scientific Data](https://www.nature.com/sdata/), put together a [list of recommended public data repositories](https://www-nature-com.stanford.idm.oclc.org/sdata/policies/repositories) for authors to share their data on.
+In addition, the journal, [Scientific Data](https://www.nature.com/sdata/), put together a [list of recommended public data repositories](https://www-nature-com.stanford.idm.oclc.org/sdata/policies/repositories) for authors to share their data on. 
 
 ### Create your pre-registration document
 
-In general, the more detailed the preregistration the better, but don't let the perfect be the enemy of the good: Registering something is better than not registering anything. The following sections convey domain-specific preregistration Gold Standards including the type of information to register. Please navigate to the [Examples section](#examples) to view the preregistrations our community have submitted.
+In general, the more detailed the preregistration the better, but don't let the perfect be the enemy of the good: Registering something is better than not registering anything. The following sections convey domain-specific preregistration Gold Standards including the type of information to register. Please navigate to the [Examples section](#examples) to view the preregistrations our community have submitted. 
 
-#### Psychological science
+#### Psychological science 
 
 For a psychological study, the Gold Standard would be to register:
 
@@ -69,13 +69,17 @@ Reasons to embargo include:
 -   Prevent others from copying your idea (if your study will take some time to carry out)
 -   Prevent participants from seeing the purpose of the study (particularly relevant in field studies).
 
-The maximum embargo period is generally at most 3 years after initial submission.
+ The maximum embargo period is generally at most 3 years after initial submission.
+
+## Examples
+
+### Psychological science
 
 ## Frequently Asked Questions
 
 ### What’s the difference between a study registry and a pre-registration?
 
-A study registry is similar to a pre-registration registry, but with a slightly different goal. The goal of a study registry is to keep a record of all studies that are run, in order to address the *file drawer problem*, in which studies with null results (or results that contradict the researcher's predictions) may go unreported.
+A study registry is similar to a pre-registration registry, but with a slightly different goal. The goal of a study registry is to keep a record of all studies that are run, in order to address the *file drawer problem*, in which studies with null results (or results that contradict the researcher's predictions) may go unreported. 
 
 For example, all clinical trials funded by the NIH are [expected to register](https://grants.nih.gov/policy/clinical-trials/reporting/index.htm) their study and report their results using the [ClinicalTrials.gov](https://clinicaltrials.gov/ct2/home) registry. Study registries generally include the same information that is included in a pre-registration, and thus can be used for the same purpose as pre-registration in some cases.
 
@@ -83,7 +87,7 @@ For example, all clinical trials funded by the NIH are [expected to register](ht
 
 A pre-registration lists your study design, measures, hypotheses, exclusion criteria, planned analyses, etc. A “pre-analysis plan” is a term more often used in economics and includes these features of a pre-registration but also often provides mathematical specifications of all models and adjustments that will be run.
 
-### How detailed should your pre-registration be?
+### How detailed should your pre-registration be? 
 
 Depends on the research stage. Earlier stage projects could be simpler pre-registrations and later stage projects could include more details. Recently scholars have argued ([here](https://www.google.com/url?q=https://blogs.worldbank.org/impactevaluations/pre-analysis-plans-and-registered-reports-what-new-opinion-piece-does-and-doesnt?CID%3DWBW_AL_BlogNotification_EN_EXT&sa=D&ust=1596058130931000&usg=AOvVaw353GYSGcRY4vPToK6rBkSt), [here](https://www.google.com/url?q=https://blogs.worldbank.org/impactevaluations/saner-approach-pre-analysis-plans&sa=D&ust=1596058130932000&usg=AOvVaw3piUyVyTCRsrSV0sDioUec)) that pre-regs should highlight the basic study design and primary outcomes, rather than all contingencies, for more early stage research projects.
 
@@ -93,11 +97,11 @@ If you’re just getting started, it may be helpful to start with simpler templa
 
 Every study can (and should) be pre-registered! This includes observational studies, meta-analyses, and secondary data analyses!
 
-### Do you pre-register projects that use secondary data?
+### Do you pre-register projects that use secondary data? 
 
 Ideally, you will want to pre-register your project before you conduct any analyses, but this is not always possible. If you are working on a secondary data analysis, it’s possible that some or all parts of the data you are working on have already been published. Or, it is possible that different parts of the data are a part of studies in-progress and you are aware of certain patterns (e.g., they are discussed in lab meetings). What is important is that you are able to draw some boundaries at a particular point in time so that you are aware of what is a part of confirmatory versus exploratory research. In your pre-registration, you can be transparent about what you know when you prepare your analyses. It is important to consider that maybe a particular project may not be well-suited to a pre-registration, if you know you are already aware of too much. However, we encourage you to still draw up an analysis plan that can still be an internal guide for analyses and keep all project members aligned for primary versus exploratory analyses.
 
-### Do you pre-register pilots?
+### Do you pre-register pilots? 
 
 You can still pre-register a pilot: “If setting out on purely exploratory research or pilot studies, preregistration can still help you remember that intention at the end of that project, improve the transparency of your research” ([link](https://www.google.com/url?q=https://help.osf.io/hc/en-us/articles/360021390833-Preregistration&sa=D&ust=1596058130934000&usg=AOvVaw18uyKg5TErjRAOCmmBDRaA))
 
@@ -113,7 +117,7 @@ There are different approaches to registering exploratory analyses.
 
 Regardless of approach, in writing up exploratory analyses, it should be made clear which analyses are confirmatory and which are exploratory.
 
-### How to have flexibility where you need it?
+### How to have flexibility where you need it? 
 
 1.  You could give contingency plans (“if-then” statements). For example, if you are assessing a scale based on a Western population in a new population in a different country, you could note “For all composite variables of 3 or more items, we will remove variables that have loading values below 0.3 on the first factor.”
 2.  If you are conducting research in a new population or otherwise have lots of uncertainty, you can conduct exploratory analyses on a  portion of the sample and then register confirmatory analyses on the remaining data. These papers below detail this “split-sample” strategy:
@@ -122,7 +126,7 @@ Regardless of approach, in writing up exploratory analyses, it should be made cl
 
 1.  As discussed above, it is common for studies to end up deviating in  some way from their pre-registration. Your job as a researcher is to be as transparent as possible about these deviations. (see below)
 
-### How do you change / revise your registration?
+### How do you change / revise your registration? 
 
 Once you publish your pre-registration you cannot make changes to the document. However, you can create a new pre-registration and include a link to your older one, outlining the changes you’ve made.
 

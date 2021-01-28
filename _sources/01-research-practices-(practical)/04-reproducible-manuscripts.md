@@ -27,6 +27,8 @@ Once you have generated a reproducible manuscript, a next step is to containeriz
 
 *TBD*
 
+## Examples
+
 ## Frequently Asked Questions
 
 ### What is “literate programming” and how does it relate to reproducible manuscripts?

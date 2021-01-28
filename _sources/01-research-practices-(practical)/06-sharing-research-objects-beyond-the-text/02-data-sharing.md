@@ -43,7 +43,7 @@ See [here](https://www.google.com/url?q=https://www.openaire.eu/how-to-make-your
 
 ### Step 1: Plan for sharing (prior to data collection):
 
-- We suggest developing a plan for disseminating your research products prior to data collection. It is crucial to have this plan in place prior to collecting your data because the plan may not be able to be retroactively applied to the data obtained. Your University library may have resources for structuring this plan.
+- We suggest developing a plan for disseminating your research products prior to data collection. It is crucial to have this plan in place prior to collecting your data because the plan may not be able to be retroactively applied to the data obtained. Your University library may have resources for structuring this plan. 
 
 #### Human participant research considerations
 
@@ -92,7 +92,7 @@ See [here](https://www.google.com/url?q=https://www.openaire.eu/how-to-make-your
     -   This allows the user of the data to specify a particular version used for a particular analysis, and allows the data owner to update the dataset (e.g. to fix problems that are identified or add additional metadata or derived data)
 -   At Stanford:
     -   Anyone can use the [Stanford Digital Repository](https://www.google.com/url?q=https://library.stanford.edu/research/stanford-digital-repository&sa=D&ust=1596301437005000&usg=AOvVaw0Ow9zAK7thV-GlEsS5miZS)
-    -   Anyone can deposit data to [Dryad](http://datadryad.org/) for free. Depositing data in Dryad fulfills funder and publisher data availability requirements and deposited data can be cited and found through Google Dataset Search, PubMed, and other platforms.
+    -   Anyone can deposit data to [Dryad](http://datadryad.org/) for free. Depositing data in Dryad fulfills funder and publisher data availability requirements and deposited data can be cited and found through Google Dataset Search, PubMed, and other platforms. 
         - Users should sign up using their ORCID and verify the institutional membership using SUNet (which is only required once).
 -   Outside of Stanford, there are both general-purpose and domain-specific repositories that one can use.
     -   There are a number of general-purpose repositories that one can choose from:
@@ -131,6 +131,14 @@ See [here](https://www.google.com/url?q=https://www.openaire.eu/how-to-make-your
 -   A number of journals support the publication of “data papers”:
     -   The premier outlet for data descriptors is [Scientific Data](https://www.google.com/url?q=https://www.nature.com/sdata/&sa=D&ust=1596301437010000&usg=AOvVaw1cbhoMTEhviNXuPdjJMy_0)
     -   There are many others, both domain-specific and domain-general.  See a list [here](https://www.google.com/url?q=https://mlibrarydata.wordpress.com/2014/05/09/data-journals/&sa=D&ust=1596301437010000&usg=AOvVaw1V-3TWzJSUvG8Km2sWbMpb)
+
+## Examples
+
+#### [Stanford Open Policing Project](https://openpolicing.stanford.edu/)
+
+The Stanford Open Policing Project collects, standardizes, and publicly shares data on vehicle and pedestrian stops from law enforcement departments across the country. They have gathered over 200 million records from dozens of state and local police departments across the country. 
+
+Access to their data can be found on their [website](https://openpolicing.stanford.edu/data/).
 
 ## Frequently Asked Questions
 
