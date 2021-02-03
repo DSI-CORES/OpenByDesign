@@ -17,3 +17,8 @@
   - file: 01-research-practices-(practical)/01-preregistration.md
   - file: 01-research-practices-(practical)/04-reproducible-manuscripts.md
   - file: 01-research-practices-(practical)/02-reproducible-data-analysis.md
+
+- part: Examples
+  chapters:
+  - file: 03-examples/01-examples.md
+  
