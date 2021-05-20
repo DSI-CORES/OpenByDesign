@@ -1,0 +1,12 @@
+# Book settings
+title: Open By Design at Stanford
+author: SDS Center for Open and Reproducible Science (CORES)
+copyright: "2021"  # Copyright year to be placed in the footer
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/DSI-CORES/OpenByDesign/
+  path_to_book: src 
+html:
+  use_repository_button: true
+  use_issues_button: true  # Whether to add an "open an issue" button
+  use_edit_page_button: true
