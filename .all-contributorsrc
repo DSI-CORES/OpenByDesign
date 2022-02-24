@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "cypayne",
+      "name": "Cheyenne Payne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23645113?v=4",
+      "profile": "https://cypayne.github.io/",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "OpenByDesign",
+  "projectOwner": "DSI-CORES",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
