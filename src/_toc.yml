@@ -7,7 +7,10 @@
 
 - part: Skills for Open Science
   chapters:
+  - file: 03-open-science-infrastructure/03-project-management/02-collaborating-with-github.md
+  - file: 03-open-science-infrastructure/03-project-management/01-version-control.md
   - file: 02-open-science-infrastructure/02-programming/02-unix.md
+  - file: 02-open-science-infrastructure/02-programming/01-computing-languages.md
   - file: 02-open-science-infrastructure/01-computer-literacy/01-computer-literacy.md
 
 - part: Open Science Research Practices
